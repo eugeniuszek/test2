@@ -1,5 +1,5 @@
 {
-  "extends": "projects/test1/tsconfig.json",
+  "extends": "./projects/test1/tsconfig.json",
     "paths": {
     }
 }

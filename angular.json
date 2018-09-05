@@ -17,7 +17,7 @@
             "index": "projects/test1/src/index.html",
             "main": "projects/test1/src/main.ts",
             "polyfills": "projects/test1/src/polyfills.ts",
-            "tsConfig": "projects/test1/src/tsconfig.app.json",
+            "tsConfig": "src/tsconfig.app.json",
             "assets": [
               "projects/test1/src/favicon.ico",
               "projects/test1/src/assets"

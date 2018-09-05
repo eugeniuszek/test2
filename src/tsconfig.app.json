@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig.json",
+  "exclude": [
+    "../projects/test1/src/test.ts",
+    "../projects/test1/**/*.spec.ts"
+  ],
+  "include": [
+    "../projects/test1/src/**/*"
+  ]
+}
